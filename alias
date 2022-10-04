@@ -1,0 +1,4 @@
+пример
+alias k='kubectl'
+хранить в .bash_aliases
+source перечитать содержимое
